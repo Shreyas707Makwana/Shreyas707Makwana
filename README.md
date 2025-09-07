@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-shreyas.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasmakwana.smh@gmail.com)
 
-<br>
+<br><br>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -52,28 +52,147 @@ I transform complex problems into elegant solutions*
 
 <div align="center">
 
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,html,css" alt="Programming Languages" />
-</p>
+### Frontend Technologies
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind CSS
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML/CSS
+</td>
+</tr>
+</table>
 
-### AI/ML & Deep Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI/ML" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
-</p>
+### Backend Technologies
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+</tr>
+</table>
 
-### Web Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,nodejs" alt="Web Technologies" />
-</p>
+### Machine Learning & AI
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+<br>Scikit-learn
+</td>
+<td align="center" width="100">
+<img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="Transformers" />
+<br>Transformers
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="LangChain" />
+<br>LangChain
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<br>OpenCV
+</td>
+</tr>
+</table>
 
-### Databases & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,aws,git" alt="Databases & DevOps" />
-  <img src="https://www.svgrepo.com/show/303460/prometheus-logo.svg" alt="prometheus" width="48" height="48"/>
-  <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" width="48" height="48"/>
-</p>
+### Databases
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+</tr>
+</table>
+
+### DevOps/Tools
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="100">
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" alt="Streamlit" />
+<br>Streamlit
+</td>
+</tr>
+</table>
 
 </div>
 
