@@ -3,7 +3,7 @@
 # 🌟 Hey there! I'm Shreyas Makwana 👋
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=Shreyas707Makwana&label=Profile%20views&color=0e75b6&style=for-the-badge&base=117" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shreyas707Makwana&label=Profile%20views&color=0e75b6&style=for-the-badge&base=100" alt="Profile views" />
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-makwana-472a4a258/)
