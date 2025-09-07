@@ -153,9 +153,5 @@ class ShreyasM:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreyas707Makwana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
   <sub>💡 "The best way to predict the future is to invent it" - Alan Kay</sub>
 </div>
