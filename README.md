@@ -1,68 +1,81 @@
-# Hey there! I'm Shreyas Makwana 👋
+<div align="center">
+
+# 🌟 Hey there! I'm Shreyas Makwana 👋
+
+<img src="https://komarev.com/ghpvc/?username=Shreyas707Makwana&label=Profile%20views&color=0e75b6&style=for-the-badge&base=117" alt="Profile views" />
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-makwana-472a4a258/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-shreyas.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasmakwana.smh@gmail.com)
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<br><br>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
+
+<div align="center">
 
 ## 🚀 Building Tomorrow's Tech Solutions Today
 
-I'm a Computer Science student at **IIIT Vadodara** passionate about creating end-to-end solutions that span the entire tech stack. From crafting intelligent AI systems to building scalable web applications, I thrive on turning complex problems into elegant solutions.
+*Computer Science Student at **IIIT Vadodara** | Creating End-to-End Solutions*
 
-### 🎯 What I'm About
-- **Software Developer** crafting robust, scalable applications with modern architectures
-- **Full-Stack Developer** creating seamless user experiences for **50+ concurrent users**
-- **AI/ML Developer** building RAG systems with **92% citation precision** 
-- **Performance Optimizer** who reduced deployment times from **20 minutes to 4 minutes**
-- **Problem Solver** with **300+ LeetCode problems** under my belt
+<table align="center">
+<tr>
+<td align="center" width="33%">
+🖥️ <strong>Software Developer</strong><br/>
+<em>Crafting robust, scalable applications</em>
+</td>
+<td align="center" width="33%">
+🌐 <strong>Full-Stack Developer</strong><br/>
+<em>Seamless experiences for 50+ users</em>
+</td>
+<td align="center" width="33%">
+🤖 <strong>AI/ML Developer</strong><br/>
+<em>92% citation precision systems</em>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
+<br>
+
+**🎯 Impact Driven • 🚀 Performance Focused • 💡 Innovation Minded**
+
+*From crafting intelligent AI systems to building scalable web applications,  
+I transform complex problems into elegant solutions*
+
 </div>
 
 ## 🛠️ Tech Arsenal
 
+<div align="center">
+
 ### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,html,css" alt="Programming Languages" />
 </p>
 
 ### AI/ML & Deep Learning
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI/ML" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
 </p>
 
 ### Web Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,nodejs" alt="Web Technologies" />
 </p>
 
 ### Databases & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,aws,git" alt="Databases & DevOps" />
+  <img src="https://www.svgrepo.com/show/303460/prometheus-logo.svg" alt="prometheus" width="48" height="48"/>
+  <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" width="48" height="48"/>
 </p>
+
+</div>
 
 ## 🏆 Performance Highlights
 
@@ -90,14 +103,83 @@ Development Efficiency:
 
 ## 🎯 Featured Projects
 
-### 🤖 [DocSense AI: RAG Intelligence Platform](https://ai-powered-personal-agent-platform.vercel.app/)
-Production-ready RAG system processing **10MB PDFs** with **25+ conversational memory turns** across **300+ validation tests**. Built with Next.js, FastAPI, and pgvector achieving **2-3s response times**.
+<div align="center">
 
-### 🎵 [Neural Text-to-Speech System](https://huggingface.co/spaces/Shreyas707Makwana/Speech_Synthesis)
-Tacotron2+HiFi-GAN pipeline achieving **4.2/5 MOS score** with **CUDA optimization** reducing inference by **45%**. Features custom Transformer-based phoneme conversion with **98% accuracy**.
+<table>
+<tr>
+<td width="50%">
 
-### ✏️ [Sync Pad - Collaborative Editor](https://github.com/Shreyas707Makwana/Sync_Pad)
-CRDT-based collaborative text editor supporting **50+ concurrent users** with **sub-150ms** update latency. Built with Django Channels, WebSockets, and Yjs with **99.9% availability**.
+### 🤖 DocSense AI: RAG Intelligence Platform
+[![Live Link](https://img.shields.io/badge/🌐_Live-0078D4?style=for-the-badge)](https://ai-powered-personal-agent-platform.vercel.app/)
+
+```yaml
+Tech Stack: Next.js, FastAPI, PostgreSQL, pgvector
+Performance: 92% citation precision
+Processing: 10MB PDFs in 6-15s
+Memory: 25+ conversational turns
+Testing: 300+ validation tests
+Response Time: 2-3s
+```
+
+Production-ready RAG system with JWT authentication and automated CI/CD deployment on Vercel/Render.
+
+</td>
+<td width="50%">
+
+### 🎵 Neural Text-to-Speech System
+[![Live Link](https://img.shields.io/badge/🌐_Live-FF6B35?style=for-the-badge)](https://huggingface.co/spaces/Shreyas707Makwana/Speech_Synthesis)
+
+```yaml
+Tech Stack: PyTorch, CUDA, Tacotron2, HiFi-GAN
+MOS Score: 4.2/5
+Optimization: 45% latency reduction (2.1s → 1.15s)
+Accuracy: 98% grapheme-to-phoneme conversion
+Interface: Streamlit web application
+```
+
+End-to-end TTS pipeline with custom Transformer-based phoneme conversion and CUDA acceleration.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✏️ Sync Pad - Collaborative Editor
+[![GitHub](https://img.shields.io/badge/📁_GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shreyas707Makwana/Sync_Pad)
+
+```yaml
+Tech Stack: Django, WebSockets, Yjs, React
+Concurrency: 50+ users simultaneously
+Latency: Sub-150ms update time
+Sync Efficiency: 65% improvement
+Availability: 99.9% uptime
+API Response: Sub-200ms
+```
+
+CRDT-based collaborative text editor with Django Channels, Redis caching, and Docker containerization.
+
+</td>
+<td width="50%">
+
+### 🔍 3D Gaussian Splatting Enhancement
+[![GitHub](https://img.shields.io/badge/📁_GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shreyas707Makwana)
+
+```yaml
+Tech Stack: PyTorch, CUDA, Computer Vision
+Innovation: SSIM-based adaptive approach
+Quality: Superior visual metrics
+Processing: Omnidirectional imagery
+Convergence: Faster reconstruction rates
+Architecture: Advanced rasterization
+```
+
+Enhanced 3D scene reconstruction replacing gradient-based densification with SSIM-based optimization.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -133,7 +215,11 @@ CRDT-based collaborative text editor supporting **50+ concurrent users** with **
 - 📊 **Active Contributor** to open-source AI/ML projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250" />
+
+**Productive Working**
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<br><br>
+
 </div>
 
 ## 📈 Current Focus
