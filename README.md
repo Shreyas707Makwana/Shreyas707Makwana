@@ -170,7 +170,7 @@ I'm always down for:
   ### *"Any sufficiently advanced technology is indistinguishable from magic."* ✨
   **- Arthur C. Clarke (and my daily motto)**
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" alt="Waving Hand"/>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand"/>
   
 </div>
 
