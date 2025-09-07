@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-makwana-472a4a258/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-shreyas.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasmakwana.smh@gmail.com)
+📧 **Email:** shreyasmakwana110@gmail.com
 
 <br><br>
 
@@ -130,11 +130,6 @@ I transform complex problems into elegant solutions*
 <td align="center" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
 <br>Scikit-learn
-</td>
-<td align="center" width="100">
-<img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="Transformers" />
-<br>Transformers
-</td>
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="LangChain" />
 <br>LangChain
@@ -311,10 +306,6 @@ Enhanced 3D scene reconstruction replacing gradient-based densification with SSI
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas707Makwana&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreyas707Makwana&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ## 🎮 Competitive Programming Journey
 
 <div align="center">
@@ -334,8 +325,6 @@ Enhanced 3D scene reconstruction replacing gradient-based densification with SSI
 - 📊 **Active Contributor** to open-source AI/ML projects
 
 <div align="center">
-
-**Productive Working**
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 <br><br>
 
