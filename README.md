@@ -338,7 +338,6 @@ class ShreyasM:
         self.current_learning = ["Advanced MLOps", "System Design", "Distributed Systems"]
         self.building = "Next-gen AI applications"
         self.goal = "Contributing to AGI research"
-        self.fun_fact = "I optimize neural networks like others optimize code!"
     
     def collaborate(self):
         return "Always open to interesting projects and discussions!"
