@@ -305,7 +305,11 @@ Enhanced 3D scene reconstruction replacing gradient-based densification with SSI
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas707Makwana&theme=tokyonight" alt="GitHub Streak" />
 </div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<br><br>
 
+</div>
 ## 🎮 Competitive Programming Journey
 
 <div align="center">
@@ -323,12 +327,6 @@ Enhanced 3D scene reconstruction replacing gradient-based densification with SSI
 - 🎓 **NVIDIA Deep Learning Institute** Certification - **95% assessment score**
 - 🏆 **Google Cloud Digital Leader** Certified
 - 📊 **Active Contributor** to open-source AI/ML projects
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-<br><br>
-
-</div>
 
 ## 📈 Current Focus
 
