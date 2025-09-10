@@ -6,11 +6,24 @@
 <img src="https://komarev.com/ghpvc/?username=Shreyas707Makwana&label=Profile%20views&color=0e75b6&style=for-the-badge&base=100" alt="Profile views" />
 <br>
 
+<!-- Flipping Text Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F7FF&center=true&vCenter=true&width=435&lines=Agile+AI/ML+Developer;Fab+Full+Stack+Developer;Savvy+Software+Engineer" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-makwana-472a4a258/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-shreyas.vercel.app/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasmakwana.smh@gmail.com)
 <br>
+
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyas-makwana-472a4a258/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://portfolio-website-shreyas.vercel.app/">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="Portfolio"/>
+  </a>
+  <a href="mailto:shreyasmakwana.smh@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
+  </a>
+</p>
+
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
