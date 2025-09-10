@@ -7,7 +7,6 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F7FF&center=true&vCenter=true&width=435&lines=Agile+AI/ML+Developer;Fab+Full+Stack+Developer;Savvy+Software+Engineer" alt="Typing SVG" />
 
-<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-makwana-472a4a258/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-shreyas.vercel.app/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasmakwana.smh@gmail.com)
@@ -349,3 +348,6 @@ class ShreyasM:
 <div align="center">
   <sub>💡 "The best way to predict the future is to invent it" - Alan Kay</sub>
 </div>
+apply those changes in my readme code which i gave you and give me modified code
+
+think longer and be creative and unique
