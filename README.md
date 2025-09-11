@@ -192,7 +192,10 @@ I transform complex problems into elegant solutions*
 
 ## 🏆 Performance Highlights
 
-```yaml
+<div align="center">
+
+<pre style="font-size:16px; font-weight:600; text-align:left;">
+<code class="language-yaml">
 AI/ML Achievements:
   - RAG System Citation Accuracy: 92%
   - Neural TTS MOS Score: 4.2/5
@@ -212,7 +215,10 @@ Development Efficiency:
   - Synthesis Latency Improved: 45% (2.1s → 1.15s)
   - Synchronization Efficiency: +65%
   - P95 Latency Optimized: 1.8s
-```
+</code>
+</pre>
+
+</div>
 
 ## 🎯 Featured Projects
 
