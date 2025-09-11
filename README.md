@@ -55,27 +55,27 @@ I transform complex problems into elegant solutions*
 <table align="center">
 <tr>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
 <br>React.js
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
 <br>Next.js
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" />
 <br>TypeScript
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" />
 <br>JavaScript
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
 <br>Tailwind CSS
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
 <br>HTML/CSS
 </td>
 </tr>
@@ -85,31 +85,31 @@ I transform complex problems into elegant solutions*
 <table align="center">
 <tr>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
 <br>Python
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
 <br>Node.js
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
 <br>Express
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" />
 <br>Django
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
 <br>FastAPI
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
 <br>Java
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
 <br>C++
 </td>
 </tr>
@@ -119,22 +119,22 @@ I transform complex problems into elegant solutions*
 <table align="center">
 <tr>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
 <br>PyTorch
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
 <br>TensorFlow
 </td>
 <td align="center" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" />
 <br>Scikit-learn
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="LangChain" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="LangChain" />
 <br>LangChain
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
 <br>OpenCV
 </td>
 </tr>
@@ -144,19 +144,19 @@ I transform complex problems into elegant solutions*
 <table align="center">
 <tr>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" />
 <br>PostgreSQL
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
 <br>MongoDB
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" />
 <br>Redis
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
 <br>MySQL
 </td>
 </tr>
@@ -166,23 +166,23 @@ I transform complex problems into elegant solutions*
 <table align="center">
 <tr>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
 <br>Docker
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
 <br>Git
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
 <br>AWS
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
 <br>Linux
 </td>
 <td align="center" width="100">
-<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" alt="Streamlit" />
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="Streamlit" />
 <br>Streamlit
 </td>
 </tr>
