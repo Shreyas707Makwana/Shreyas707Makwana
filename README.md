@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=Shreyas707Makwana&label=Profile%20views&color=0e75b6&style=for-the-badge&base=100" alt="Profile views" />
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=00F7FF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Dream+to+Deployment+Developer;%F0%9F%8F%97%EF%B8%8F+AI/ML+Systems+Builder;%E2%9A%A1+Latency+Slayer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1300&color=00F7FF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Dream+to+Deployment+Developer;%F0%9F%8F%97%EF%B8%8F+AI/ML+Systems+Builder;%E2%9A%A1+Latency+Slayer" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-makwana-472a4a258/)
