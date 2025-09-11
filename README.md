@@ -222,7 +222,7 @@ Development Efficiency:
 <tr>
 <td width="50%">
 
-### 🤖 DocSense AI: RAG Intelligence Platform
+### 🤖 DocSense AI: RAG Powered SaaS Platform
 [![Live Link](https://img.shields.io/badge/🌐_Live-0078D4?style=for-the-badge)](https://ai-powered-personal-agent-platform.vercel.app/)
 
 ```yaml
@@ -239,7 +239,7 @@ Production-ready RAG system with JWT authentication and automated CI/CD deployme
 </td>
 <td width="50%">
 
-### 🎵 Neural Text-to-Speech System
+### 🎵 Neural Text-to-Speech Engine
 [![Live Link](https://img.shields.io/badge/🌐_Live-FF6B35?style=for-the-badge)](https://huggingface.co/spaces/Shreyas707Makwana/Speech_Synthesis)
 
 ```yaml
