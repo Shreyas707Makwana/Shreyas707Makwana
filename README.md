@@ -348,6 +348,3 @@ class ShreyasM:
 <div align="center">
   <sub>💡 "The best way to predict the future is to invent it" - Alan Kay</sub>
 </div>
-apply those changes in my readme code which i gave you and give me modified code
-
-think longer and be creative and unique
