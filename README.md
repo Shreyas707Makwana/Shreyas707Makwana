@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Shreyas707Makwana&label=Profile%20views&color=0e75b6&style=for-the-badge&base=100" alt="Profile views" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F7FF&center=true&vCenter=true&width=435&lines=Agile+AI/ML+Developer;Fab+Full+Stack+Developer;Savvy+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F7FF&center=true&vCenter=true&width=500&lines=🌐+Pixel-to-Production+Engineer;🏗️+AI/ML+Systems+Builder;⚡+Latency+Slayer" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-makwana-472a4a258/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-website-shreyas.vercel.app/)
